@@ -3,4 +3,4 @@ configs
 
 my configs
 
-ln -s i3status.cnf ~/.i3status.cnf
+ln -s i3status.conf ~/.i3status.conf
